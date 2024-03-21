@@ -1,5 +1,4 @@
 # Grapevine-Leaves-CNN-Classification
-Final project of "Data Mining" course at University of Tehran
 ### This project contains 3 parts:
   - Data preprocessing and augmentation
   - Dimention Reduction using Autoencoders
